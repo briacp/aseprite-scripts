@@ -1,3 +1,7 @@
+-- Aseprite Script: Change Palette
+-- Author: briacp
+-- In an indexed color image, it will swap the palette from a selected palette file. 
+
 local dlg = Dialog("Change Palette")
 dlg 
     --:label{text="This will set the current image \nto color mode to Indexed and replace \nthe palette with the selected one."}
