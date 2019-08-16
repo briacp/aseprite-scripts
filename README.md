@@ -10,3 +10,4 @@ In an indexed color image, it will swap the palette from a selected palette file
 
 Given two palette files, it will replace in the current image all the colors from the first palette by the 
 colors from the target palette. Both palettes must have the same number of colors.
+![Palette Mapping Example](https://raw.githubusercontent.com/briacp/aseprite-scripts/master/Palette%20Mapping.png)
